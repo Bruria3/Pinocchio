@@ -1,0 +1,10 @@
+D:\תכנות\Pinocchio\Trying\Trying\obj\Debug\Trying.csprojAssemblyReference.cache
+D:\תכנות\Pinocchio\Trying\Trying\obj\Debug\Trying.Form1.resources
+D:\תכנות\Pinocchio\Trying\Trying\obj\Debug\Trying.Properties.Resources.resources
+D:\תכנות\Pinocchio\Trying\Trying\obj\Debug\Trying.csproj.GenerateResource.cache
+D:\תכנות\Pinocchio\Trying\Trying\obj\Debug\Trying.csproj.CoreCompileInputs.cache
+D:\תכנות\Pinocchio\Trying\Trying\bin\Debug\Trying.exe.config
+D:\תכנות\Pinocchio\Trying\Trying\bin\Debug\Trying.exe
+D:\תכנות\Pinocchio\Trying\Trying\bin\Debug\Trying.pdb
+D:\תכנות\Pinocchio\Trying\Trying\obj\Debug\Trying.exe
+D:\תכנות\Pinocchio\Trying\Trying\obj\Debug\Trying.pdb
